@@ -2,6 +2,6 @@
 
 This exercise has been made by myself and the support of my team (THP-Nice) in order to learn Forms in Ruby on Rails. 
 
-heroku link : https://iloveformsthp06.herokuapp.com/users/new
+Heroku Link : https://iloveform1987.herokuapp.com/users/new
 
-Enjoy
+Enjoy !
